@@ -43,6 +43,8 @@ On Linux the kernel's `usblp` driver claims the printer first, so it needs a ude
 rule; on Windows it needs the WinUSB driver. Fetching by filing ID isn't
 supported in the browser: docquery.fec.gov sends no CORS headers. `web/dist/` is
 plain static files.
+Every push to `main` deploys it to
+[asg017.github.io/fec-receipt-printer](https://asg017.github.io/fec-receipt-printer/).
 
 ## How it fits together
 
