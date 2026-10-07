@@ -1,0 +1,75 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   3           |
+  | Congressional Campaign Report  |
+  |          FEC-1858438           |
+  |================================|
+2x|George Whitesides for Congress  |
+  |C00834028 - Newhall, CA         |
+  |--------------------------------|
+  |Seat    CA-27                   |
+  |Report  30G - Post-General      |
+  |Period  Oct 17 - Nov 25, 2024   |
+  |Elect   General, Nov 5, 2024, CA|
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start    1,032,195|
+  |+ Receipts             1,319,224|
+  |- Disbursements        1,869,794|
+  |Cash on hand, end        481,625|
+  |Debts they owe         1,310,000|
+  |--------------------------------|
+  |RECEIPTS                        |
+  |               PERIOD      CYCLE|
+  |11a Individuals, itemized       |
+  |              502,496  5,853,775|
+  |11a Individuals, unitem.        |
+  |              156,451  1,544,171|
+  |11b Party committees            |
+  |                3,608     10,190|
+  |11c PACs                        |
+  |              138,727    657,833|
+  |11d The candidate               |
+  |                    0    273,628|
+  |11e Total contributions         |
+  |              801,282  8,339,598|
+  |12 Transfers in                 |
+  |               83,913    568,613|
+  |13a Loans from candidate        |
+  |              250,000  1,310,000|
+  |14 Offsets                      |
+  |                    0      4,000|
+  |15 Other receipts               |
+  |              184,028     15,254|
+  |16 TOTAL RECEIPTS               |
+  |            1,319,224 10,237,465|
+  |--------------------------------|
+  |DISBURSEMENTS                   |
+  |               PERIOD      CYCLE|
+  |17 Operating                    |
+  |            1,859,432  9,759,243|
+  |20 Refunds                      |
+  |                8,662    124,355|
+  |21 Other                        |
+  |                1,700    152,573|
+  |22 TOTAL DISBURSEMENTS          |
+  |            1,869,794 10,036,171|
+  |--------------------------------|
+  |Signed  Jay Petterson           |
+  |        Dec 5, 2024             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

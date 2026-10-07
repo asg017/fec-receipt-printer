@@ -1,0 +1,37 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 P           |
+  |  Presidential Campaign Report  |
+  |          FEC-1887806           |
+  |================================|
+2x|Team Kennedy                    |
+  |C00836916 - South Walpole, MA   |
+  |--------------------------------|
+  |Report  Q1 - April Quarterly    |
+  |Period  Jan 1 - Mar 31, 2025    |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start      739,178|
+  |+ Receipts             2,530,325|
+  |- Disbursements        2,735,930|
+  |Cash on hand, end        533,572|
+  |Debts they owe           338,739|
+  |--------------------------------|
+  |Signed  Ellie Cox               |
+  |        Apr 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

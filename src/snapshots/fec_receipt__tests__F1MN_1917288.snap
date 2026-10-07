@@ -1,0 +1,28 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   1 M           |
+  |     Multicandidate Status      |
+  |          FEC-1917288           |
+  |================================|
+2x|MORE JOBS, LESS GOVERNMENT      |
+  |C00693838                       |
+  |--------------------------------|
+  |--------------------------------|
+  |Signed  CHARLES GANTT           |
+  |        Oct 2, 2025             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

@@ -1,0 +1,31 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 L           |
+  |    Lobbyist Bundling Report    |
+  |          FEC-1941874           |
+  |================================|
+2x|Jimmy Gomez for Congress        |
+  |C00629659                       |
+  |--------------------------------|
+  |Report  QYS - Quarterly Year    |
+  |        End/Semi-Annual         |
+  |Period  Oct 1 - Dec 31, 2025    |
+  |--------------------------------|
+  |Signed  Melissa Nissen          |
+  |        Jan 31, 2026            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

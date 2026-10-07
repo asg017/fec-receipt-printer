@@ -1,0 +1,29 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   2 4           |
+  |    Independent Expenditures    |
+  |          FEC-1946204           |
+  |================================|
+2x|UNITED DEMOCRACY PROJECT ("UDP")|
+  |C00799031 - WASHINGTON, DC      |
+  |--------------------------------|
+  |Report  48-Hour Report          |
+  |--------------------------------|
+  |Signed  CHRISTOPHER D'ALESSIO   |
+  |        Feb 12, 2026            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

@@ -1,0 +1,32 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   2           |
+  |     Statement of Candidacy     |
+  |          FEC-1923633           |
+  |================================|
+2x|Sherman for Congress            |
+  |H6CA24113 - Los Angeles, CA     |
+  |--------------------------------|
+  |Office  House, CA-32            |
+  |Party   Democratic Party        |
+  |Year    2028                    |
+  |Cmte    Sherman for Congress    |
+  |--------------------------------|
+  |Signed  Brad Sherman            |
+  |        Oct 27, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

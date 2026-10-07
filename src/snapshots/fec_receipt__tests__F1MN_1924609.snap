@@ -1,0 +1,29 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   1 M           |
+  |     Multicandidate Status      |
+  |          FEC-1924609           |
+  |================================|
+2x|Fight for a Democratic Majority |
+2x|PAC                             |
+  |C00914424                       |
+  |--------------------------------|
+  |--------------------------------|
+  |Signed  Judith Zamore           |
+  |        Nov 12, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

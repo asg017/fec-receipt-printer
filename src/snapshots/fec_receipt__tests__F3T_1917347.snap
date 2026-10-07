@@ -1,0 +1,39 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   3           |
+  | Congressional Campaign Report  |
+  |          FEC-1917347           |
+  |       ** TERMINATION **        |
+  |================================|
+2x|WHITSON FOR CONGRESS            |
+  |C00908301 - GREAT FALLS, VA     |
+  |--------------------------------|
+  |Seat    VA-11                   |
+  |Report  TER - Termination Report|
+  |Period  Aug 21 - Sep 30, 2025   |
+  |Elect   Sep 9, 2025, VA         |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start       60,937|
+  |+ Receipts                39,687|
+  |- Disbursements          100,624|
+  |Cash on hand, end              0|
+  |--------------------------------|
+  |Signed  JASON D BOLES           |
+  |        Oct 2, 2025             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

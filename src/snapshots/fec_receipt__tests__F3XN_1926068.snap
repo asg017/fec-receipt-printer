@@ -1,0 +1,37 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 X           |
+  |       PAC / Party Report       |
+  |          FEC-1926068           |
+  |================================|
+2x|Ohio Democratic Party - Federal |
+  |C00016899 - Columbus, OH        |
+  |--------------------------------|
+  |Report  M11 - November Monthly  |
+  |Period  Oct 1 - Oct 31, 2025    |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start    1,976,082|
+  |+ Receipts               445,072|
+  |- Disbursements          326,739|
+  |Cash on hand, end      2,094,416|
+  |Debts they owe            11,831|
+  |--------------------------------|
+  |Signed  Patricia Frost-Brooks   |
+  |        Nov 20, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

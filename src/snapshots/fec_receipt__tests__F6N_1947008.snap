@@ -1,0 +1,31 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   6           |
+  |  48-Hour Contribution Notice   |
+  |          FEC-1947008           |
+  |================================|
+2x|KEN PAXTON FOR SENATE           |
+  |C00901918 - DALLAS, TX          |
+  |--------------------------------|
+  |For     WARREN KENNETH PAXTON   |
+  |        JR.                     |
+  |Office  Senate, TX              |
+  |--------------------------------|
+  |Signed  JOHN PLISHKA            |
+  |        Feb 17, 2026            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

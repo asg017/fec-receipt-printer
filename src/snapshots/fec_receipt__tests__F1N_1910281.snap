@@ -1,0 +1,33 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   1           |
+  |   Statement of Organization    |
+  |          FEC-1910281           |
+  |================================|
+2x|Pete Barlow for Congress        |
+  |C00914911 - Harrisonburg, VA    |
+  |--------------------------------|
+  |Type    Principal Campaign      |
+  |        Committee               |
+  |For     Pete Barlow             |
+  |Office  House, VA-06            |
+  |Party   Democratic Party        |
+  |--------------------------------|
+  |Signed  Sonya McGrady           |
+  |        Aug 5, 2025             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

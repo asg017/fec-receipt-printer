@@ -1,0 +1,40 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 X           |
+  |       PAC / Party Report       |
+  |          FEC-1909193           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|ACPAC ACA INTERNATIONAL         |
+2x|POLITICAL ACTION COMMITTEE      |
+  |C00034785 - Eagan, MN           |
+  |Multicandidate committee        |
+  |--------------------------------|
+  |Report  12G - Pre-General       |
+  |Period  Oct 1 - Oct 16, 2024    |
+  |Elect   General, Nov 5, 2024, DC|
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start      254,938|
+  |+ Receipts                17,026|
+  |- Disbursements           22,334|
+  |Cash on hand, end        249,630|
+  |--------------------------------|
+  |Signed  Lori Ann Speiss         |
+  |        Jul 25, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

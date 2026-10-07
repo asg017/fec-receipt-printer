@@ -1,0 +1,33 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   4           |
+  |  Convention Committee Report   |
+  |          FEC-1920140           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|170 FREEDOM MILWAUKEE 2024 HOST |
+2x|COMMITTEE INC                   |
+  |C00834978                       |
+  |--------------------------------|
+  |Report  60D - Post-Convention   |
+  |Period  Apr 27, 2022 - Sep 1,   |
+  |        2024                    |
+  |--------------------------------|
+  |Signed  Tim Sheehy              |
+  |        Oct 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

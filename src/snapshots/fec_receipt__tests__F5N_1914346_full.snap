@@ -1,0 +1,32 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   5           |
+  |    Independent Expenditures    |
+  |          FEC-1914346           |
+  |================================|
+2x|Heritage Action for America     |
+  |C90013525 - Washington, DC      |
+  |--------------------------------|
+  |Report  24-Hour Report          |
+  |Period  Sep 8 - Sep 8, 2025     |
+  |Contributions                  0|
+  |Independent exp.           2,790|
+  |--------------------------------|
+  |Signed  Tiffany Justice         |
+  |        Sep 9, 2025             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

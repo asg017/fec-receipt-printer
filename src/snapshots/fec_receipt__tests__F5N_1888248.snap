@@ -1,0 +1,35 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   5           |
+  |    Independent Expenditures    |
+  |          FEC-1888248           |
+  |================================|
+2x|The Conservative Caucus dba     |
+2x|Americans for Constitutional    |
+2x|Liberty                         |
+  |C90018904 - Fairfax, VA         |
+  |--------------------------------|
+  |Report  April 15 Quarterly      |
+  |        Report                  |
+  |Period  Jan 1 - Mar 31, 2025    |
+  |Contributions             69,696|
+  |Independent exp.          79,858|
+  |--------------------------------|
+  |Signed  Mr. Jim Pfaff           |
+  |        Apr 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

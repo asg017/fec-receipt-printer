@@ -1,0 +1,53 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   9 9           |
+  |       Miscellaneous Text       |
+  |          FEC-1909934           |
+  |================================|
+2x|ARIZONA MOVEMENT LABS           |
+  |C00880856 - LOS ANGELES, CA     |
+  |--------------------------------|
+  |--------------------------------|
+  |MESSAGE                         |
+  |To Whom It May Concern:         |
+  |                                |
+  |A late notification for the     |
+  |Mid-Year FEC report was sent to |
+  |the email address on this       |
+  |committee's Form 1 today, August|
+  |1, 2025.                        |
+  |                                |
+  |The committee filed a           |
+  |termination report on March 5,  |
+  |2025, and received a termination|
+  |approval from the commission on |
+  |March 10, 2025.                 |
+  |                                |
+  |We kindly request that the      |
+  |commission's records be updated |
+  |to reflect that this committee  |
+  |has been terminated.            |
+  |                                |
+  |Sincerely,                      |
+  |                                |
+  |Howie Stanger                   |
+  |Treasurer                       |
+  |--------------------------------|
+  |Signed  Howie Stanger           |
+  |        Aug 1, 2025             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

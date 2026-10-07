@@ -1,0 +1,58 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   3           |
+  | Congressional Campaign Report  |
+  |          FEC-1918805           |
+  |================================|
+2x|MCCORD, MICHAEL                 |
+  |C00912188 - SAVANNAH, GA        |
+  |--------------------------------|
+  |Seat    GA-01                   |
+  |Report  Q3 - October Quarterly  |
+  |Period  Jul 1 - Sep 30, 2025    |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start            0|
+  |+ Receipts               112,540|
+  |- Disbursements           30,159|
+  |Cash on hand, end         82,381|
+  |Debts they owe            50,000|
+  |--------------------------------|
+  |RECEIPTS                        |
+  |               PERIOD      CYCLE|
+  |11a Individuals, itemized       |
+  |               62,100     62,100|
+  |11a Individuals, unitem.        |
+  |                  440        440|
+  |11e Total contributions         |
+  |               62,540     62,540|
+  |13a Loans from candidate        |
+  |               50,000     50,000|
+  |16 TOTAL RECEIPTS               |
+  |              112,540    112,540|
+  |--------------------------------|
+  |DISBURSEMENTS                   |
+  |               PERIOD      CYCLE|
+  |17 Operating                    |
+  |               30,159     30,159|
+  |22 TOTAL DISBURSEMENTS          |
+  |               30,159     30,159|
+  |--------------------------------|
+  |Signed  Marcio Liam             |
+  |        Oct 13, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

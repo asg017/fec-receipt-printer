@@ -1,0 +1,30 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   4           |
+  |  Convention Committee Report   |
+  |          FEC-1901605           |
+  |================================|
+2x|Development Now for Chicago     |
+  |C00838862                       |
+  |--------------------------------|
+  |Report  Q2 - July Quarterly     |
+  |Period  Apr 1 - Jun 30, 2025    |
+  |--------------------------------|
+  |Signed  Michelle Harris         |
+  |        Jul 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

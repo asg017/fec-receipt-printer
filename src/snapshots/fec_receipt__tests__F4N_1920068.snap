@@ -1,0 +1,30 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   4           |
+  |  Convention Committee Report   |
+  |          FEC-1920068           |
+  |================================|
+2x|Development Now for Chicago     |
+  |C00838862                       |
+  |--------------------------------|
+  |Report  Q3 - October Quarterly  |
+  |Period  Jul 1 - Sep 30, 2025    |
+  |--------------------------------|
+  |Signed  Michelle Harris         |
+  |        Oct 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

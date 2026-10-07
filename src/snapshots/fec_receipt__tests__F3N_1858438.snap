@@ -1,0 +1,39 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   3           |
+  | Congressional Campaign Report  |
+  |          FEC-1858438           |
+  |================================|
+2x|George Whitesides for Congress  |
+  |C00834028 - Newhall, CA         |
+  |--------------------------------|
+  |Seat    CA-27                   |
+  |Report  30G - Post-General      |
+  |Period  Oct 17 - Nov 25, 2024   |
+  |Elect   General, Nov 5, 2024, CA|
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start    1,032,195|
+  |+ Receipts             1,319,224|
+  |- Disbursements        1,869,794|
+  |Cash on hand, end        481,625|
+  |Debts they owe         1,310,000|
+  |--------------------------------|
+  |Signed  Jay Petterson           |
+  |        Dec 5, 2024             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

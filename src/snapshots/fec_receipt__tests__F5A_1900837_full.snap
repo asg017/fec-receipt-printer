@@ -1,0 +1,34 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   5           |
+  |    Independent Expenditures    |
+  |          FEC-1900837           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|AMERICAN MAJORITY ACTION INC.   |
+  |C90011891 - Purcellville, VA    |
+  |--------------------------------|
+  |Report  January 31 Year-End     |
+  |        Report                  |
+  |Period  Oct 1 - Dec 31, 2024    |
+  |Contributions            200,000|
+  |Independent exp.         197,091|
+  |--------------------------------|
+  |Signed  Kelly Amorin            |
+  |        Jul 14, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

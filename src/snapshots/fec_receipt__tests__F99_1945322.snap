@@ -1,0 +1,57 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   9 9           |
+  |       Miscellaneous Text       |
+  |          FEC-1945322           |
+  |================================|
+2x|Robinhood Markets, Inc. PAC     |
+  |C00780304 - Menlo Park, CA      |
+  |--------------------------------|
+  |Subject Filing Freq. Change     |
+  |        Notice                  |
+  |--------------------------------|
+  |MESSAGE                         |
+  |Reports Analysis Division       |
+  |Federal Election Commission     |
+  |1050 First Street NE            |
+  |Washington, DC 20463            |
+  |                                |
+  |RE: Robinhood Markets, Inc. PAC,|
+  |FEC ID C00780304, Change in     |
+  |Filing Frequency                |
+  |                                |
+  |To Whom It May Concern:         |
+  |Pursuant to 11 C.F.R. 104.5(c), |
+  |Robinhood Markets, Inc. PAC is  |
+  |changing filing frequency status|
+  |from a                          |
+  |Quarterly/Semi-Annual filer to a|
+  |Monthly Filer. In accordance    |
+  |with this new filing frequency, |
+  |the next report that Robinhood  |
+  |Markets, Inc. PAC intends to    |
+  |file will be the 2026 February  |
+  |Monthly Report due on February  |
+  |20, 2026.                       |
+  |                                |
+  |Thank you in Advance,           |
+  |Shiv Verma, Treasurer           |
+  |--------------------------------|
+  |Signed  Shiv Verma              |
+  |        Feb 6, 2026             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

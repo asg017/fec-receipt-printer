@@ -1,0 +1,34 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   1           |
+  |   Statement of Organization    |
+  |          FEC-1917499           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|SAVE AMERICA STOP SOCIALISM PAC |
+  |C00755199 - WASHINGTON, DC      |
+  |--------------------------------|
+  |Type    Support/Oppose more than|
+  |        One Federal Cand & Not  |
+  |        Segregated Fund/Party   |
+  |Web     HTTPS://SAVEAMERICASTOPS|
+  |        OCIALISM.COM            |
+  |--------------------------------|
+  |Signed  JASON D BOLES           |
+  |        Oct 3, 2025             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

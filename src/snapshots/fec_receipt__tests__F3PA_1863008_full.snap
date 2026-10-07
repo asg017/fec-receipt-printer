@@ -1,0 +1,71 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 P           |
+  |  Presidential Campaign Report  |
+  |          FEC-1863008           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|DONALD J. TRUMP FOR PRESIDENT   |
+2x|2024, INC.                      |
+  |C00828541 - ARLINGTON, VA       |
+  |--------------------------------|
+  |Report  12G - Pre-General       |
+  |Period  Oct 1 - Oct 16, 2024    |
+  |Elect   General, Nov 5, 2024    |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start  119,676,444|
+  |+ Receipts            16,227,642|
+  |- Disbursements       99,689,404|
+  |Cash on hand, end     36,214,682|
+  |Debts owed to them     2,864,906|
+  |Debts they owe            10,446|
+  |--------------------------------|
+  |RECEIPTS                        |
+  |               PERIOD      CYCLE|
+  |17a Individuals, itemized       |
+  |            7,658,517 34,419,624|
+  |17a Individuals, unitem.        |
+  |            3,800,913 20,105,136|
+  |17c Other committees            |
+  |               12,000    272,269|
+  |17e Total contributions         |
+  |           11,471,430 54,797,029|
+  |18 Transfers in                 |
+  |            1,723,773     318.6M|
+  |20 Offsets                      |
+  |            1,807,684 10,313,822|
+  |21 Other receipts               |
+  |            1,224,754  8,226,255|
+  |22 TOTAL RECEIPTS               |
+  |           16,227,642     391.9M|
+  |--------------------------------|
+  |DISBURSEMENTS                   |
+  |               PERIOD      CYCLE|
+  |23 Operating                    |
+  |           99,659,166     351.2M|
+  |28 Refunds                      |
+  |               30,239     68,729|
+  |29 Other                        |
+  |                    0  4,460,705|
+  |30 TOTAL DISBURSEMENTS          |
+  |           99,689,404     355.7M|
+  |--------------------------------|
+  |Signed  BRADLEY T. CRATE        |
+  |        Jan 13, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

@@ -1,0 +1,31 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 L           |
+  |    Lobbyist Bundling Report    |
+  |          FEC-1902042           |
+  |================================|
+2x|Bell for Missouri               |
+  |C00842336                       |
+  |--------------------------------|
+  |Report  Q2S - July              |
+  |        Quarterly/Semi-Annual   |
+  |Period  Apr 1 - Jun 30, 2025    |
+  |--------------------------------|
+  |Signed  Cassie Tinsmon          |
+  |        Jul 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

@@ -1,0 +1,41 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 P           |
+  |  Presidential Campaign Report  |
+  |          FEC-1863008           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|DONALD J. TRUMP FOR PRESIDENT   |
+2x|2024, INC.                      |
+  |C00828541 - ARLINGTON, VA       |
+  |--------------------------------|
+  |Report  12G - Pre-General       |
+  |Period  Oct 1 - Oct 16, 2024    |
+  |Elect   General, Nov 5, 2024    |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start  119,676,444|
+  |+ Receipts            16,227,642|
+  |- Disbursements       99,689,404|
+  |Cash on hand, end     36,214,682|
+  |Debts owed to them     2,864,906|
+  |Debts they owe            10,446|
+  |--------------------------------|
+  |Signed  BRADLEY T. CRATE        |
+  |        Jan 13, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

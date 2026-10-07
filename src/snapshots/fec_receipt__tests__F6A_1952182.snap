@@ -1,0 +1,31 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   6           |
+  |  48-Hour Contribution Notice   |
+  |          FEC-1952182           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|Talarico for Texas              |
+  |C00919084 - Austin, TX          |
+  |--------------------------------|
+  |For     James Talarico          |
+  |Office  Senate, TX              |
+  |--------------------------------|
+  |Signed  Lauren Decot Lee        |
+  |        Mar 8, 2026             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

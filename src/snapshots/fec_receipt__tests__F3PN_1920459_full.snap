@@ -1,0 +1,71 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 P           |
+  |  Presidential Campaign Report  |
+  |          FEC-1920459           |
+  |================================|
+2x|EDWARDS FOR PRESIDENT           |
+  |C00384073 - RINGGOLD, GA        |
+  |--------------------------------|
+  |Report  Q3 - October Quarterly  |
+  |Period  Jul 1 - Sep 30, 2025    |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start            0|
+  |+ Receipts                     0|
+  |- Disbursements                0|
+  |Cash on hand, end              0|
+  |Debts they owe           331,586|
+  |--------------------------------|
+  |RECEIPTS                        |
+  |               PERIOD      CYCLE|
+  |16 Federal funds                |
+  |                    0  6,706,458|
+  |17a Individuals, itemized       |
+  |                    0 21,896,886|
+  |17c Other committees            |
+  |                    0      2,000|
+  |17e Total contributions         |
+  |                    0 21,898,886|
+  |18 Transfers in                 |
+  |                    0    962,908|
+  |19 Loans                        |
+  |                    0  2,470,614|
+  |20 Offsets                      |
+  |                    0  1,715,161|
+  |22 TOTAL RECEIPTS               |
+  |                    0 33,754,028|
+  |--------------------------------|
+  |DISBURSEMENTS                   |
+  |               PERIOD      CYCLE|
+  |23 Operating                    |
+  |                    0 21,244,654|
+  |25 Fundraising                  |
+  |                    0  6,947,671|
+  |26 Legal & accounting           |
+  |                    0  2,847,441|
+  |27 Loan repayments              |
+  |                    0  2,470,614|
+  |28 Refunds                      |
+  |                    0    239,482|
+  |30 TOTAL DISBURSEMENTS          |
+  |                    0 33,749,862|
+  |--------------------------------|
+  |Signed  Lora Haggard            |
+  |        Oct 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

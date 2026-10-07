@@ -1,0 +1,65 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 P           |
+  |  Presidential Campaign Report  |
+  |          FEC-1887806           |
+  |================================|
+2x|Team Kennedy                    |
+  |C00836916 - South Walpole, MA   |
+  |--------------------------------|
+  |Report  Q1 - April Quarterly    |
+  |Period  Jan 1 - Mar 31, 2025    |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start      739,178|
+  |+ Receipts             2,530,325|
+  |- Disbursements        2,735,930|
+  |Cash on hand, end        533,572|
+  |Debts they owe           338,739|
+  |--------------------------------|
+  |RECEIPTS                        |
+  |               PERIOD      CYCLE|
+  |17a Individuals, itemized       |
+  |              349,195  1,050,493|
+  |17a Individuals, unitem.        |
+  |              712,647  2,395,622|
+  |17e Total contributions         |
+  |            1,061,842  3,446,115|
+  |18 Transfers in                 |
+  |               67,697    238,147|
+  |20 Offsets                      |
+  |               40,366     58,064|
+  |21 Other receipts               |
+  |            1,360,419  1,360,427|
+  |22 TOTAL RECEIPTS               |
+  |            2,530,325  5,102,753|
+  |--------------------------------|
+  |DISBURSEMENTS                   |
+  |               PERIOD      CYCLE|
+  |23 Operating                    |
+  |            2,699,462  5,233,048|
+  |28 Refunds                      |
+  |               36,468     61,627|
+  |29 Other                        |
+  |                    0    166,466|
+  |30 TOTAL DISBURSEMENTS          |
+  |            2,735,930  5,461,142|
+  |--------------------------------|
+  |Signed  Ellie Cox               |
+  |        Apr 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

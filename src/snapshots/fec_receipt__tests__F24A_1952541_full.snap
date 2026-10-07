@@ -1,0 +1,31 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   2 4           |
+  |    Independent Expenditures    |
+  |          FEC-1952541           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|Fairshake                       |
+  |C00835959 - St. Paul, MN        |
+  |--------------------------------|
+  |Report  24-Hour Report          |
+  |Amends  Mar 6, 2026             |
+  |--------------------------------|
+  |Signed  Brandon Philipczyk      |
+  |        Mar 10, 2026            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

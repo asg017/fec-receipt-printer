@@ -1,0 +1,30 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   9           |
+  | Electioneering Communications  |
+  |          FEC-2015422           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|ALLIANCE FOR A BETTER FUTURE INC|
+  |C30003628                       |
+  |--------------------------------|
+  |Period  Sep 15 - Sep 15, 2026   |
+  |--------------------------------|
+  |Signed  CASSIDY KING            |
+  |        Sep 28, 2026            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

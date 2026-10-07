@@ -1,0 +1,33 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   2           |
+  |     Statement of Candidacy     |
+  |          FEC-1902439           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|Salazar For Congress            |
+  |H8FL27185 - Miami, FL           |
+  |--------------------------------|
+  |Office  House, FL-27            |
+  |Party   Republican Party        |
+  |Year    2026                    |
+  |Cmte    Salazar For Congress    |
+  |--------------------------------|
+  |Signed  Maria Elvira Salazar    |
+  |        Jul 15, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

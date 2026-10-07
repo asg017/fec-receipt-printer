@@ -1,0 +1,30 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   7           |
+  |      Communication Costs       |
+  |          FEC-1884734           |
+  |================================|
+2x|National Association of REALTORS|
+  |C70002563                       |
+  |--------------------------------|
+  |Report  Q1 - April Quarterly    |
+  |Period  Jan 1 - Mar 31, 2025    |
+  |--------------------------------|
+  |Signed  Mr. Craig W Sanford     |
+  |        Apr 9, 2025             |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

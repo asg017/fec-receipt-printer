@@ -1,0 +1,34 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   1           |
+  |   Statement of Organization    |
+  |          FEC-1906351           |
+  |================================|
+2x|Families for James Lankford     |
+  |C00466482 - Bethany, OK         |
+  |--------------------------------|
+  |Type    Principal Campaign      |
+  |        Committee               |
+  |For     James Paul Lankford     |
+  |Office  Senate, OK              |
+  |Party   Republican Party        |
+  |Web     www.jameslankford.com   |
+  |--------------------------------|
+  |Signed  Mrs. Terri Lynn Miller  |
+  |        Jul 28, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

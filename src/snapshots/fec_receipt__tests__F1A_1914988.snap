@@ -1,0 +1,32 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|          F O R M   1           |
+  |   Statement of Organization    |
+  |          FEC-1914988           |
+  |        ** AMENDMENT **         |
+  |================================|
+2x|Independent Community Bankers of|
+2x|America Political Action        |
+2x|Committee (ICBA PAC)            |
+  |C00032698 - Washington, DC      |
+  |--------------------------------|
+  |Type    Separate Segregated Fund|
+  |--------------------------------|
+  |Signed  Mr. Paul Merski         |
+  |        Sep 16, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+

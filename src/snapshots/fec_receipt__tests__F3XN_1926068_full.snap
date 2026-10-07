@@ -1,0 +1,77 @@
+---
+source: src/tests.rs
+expression: "preview::text(&receipt, false)"
+---
+  +--------------------------------+
+  |================================|
+2x|        F O R M   3 X           |
+  |       PAC / Party Report       |
+  |          FEC-1926068           |
+  |================================|
+2x|Ohio Democratic Party - Federal |
+  |C00016899 - Columbus, OH        |
+  |--------------------------------|
+  |Report  M11 - November Monthly  |
+  |Period  Oct 1 - Oct 31, 2025    |
+  |--------------------------------|
+  |THIS PERIOD                     |
+  |Cash on hand, start    1,976,082|
+  |+ Receipts               445,072|
+  |- Disbursements          326,739|
+  |Cash on hand, end      2,094,416|
+  |Debts they owe            11,831|
+  |--------------------------------|
+  |RECEIPTS                        |
+  |               PERIOD       YEAR|
+  |11a Individuals, itemized       |
+  |               93,954    653,699|
+  |11a Individuals, unitem.        |
+  |               25,036    238,421|
+  |11b Party committees            |
+  |                    0        750|
+  |11c Other committees            |
+  |                5,000     31,300|
+  |11d Total contributions         |
+  |              123,990    924,169|
+  |12 Transfers in                 |
+  |              148,541    811,787|
+  |15 Offsets                      |
+  |                3,689    124,798|
+  |17 Other receipts               |
+  |                1,397    106,527|
+  |18 Non-federal transfers        |
+  |              167,455  1,517,312|
+  |19 TOTAL RECEIPTS               |
+  |              445,072  3,484,593|
+  |--------------------------------|
+  |DISBURSEMENTS                   |
+  |               PERIOD       YEAR|
+  |21 Operating                    |
+  |              257,028  2,624,639|
+  |22 Transfers out                |
+  |                2,813      8,438|
+  |23 To candidates                |
+  |                    0         35|
+  |28 Refunds                      |
+  |                2,505     17,069|
+  |29 Other                        |
+  |               17,071    141,310|
+  |30 Fed. election activity       |
+  |               47,323    435,885|
+  |31 TOTAL DISBURSEMENTS          |
+  |              326,739  3,227,374|
+  |--------------------------------|
+  |Signed  Patricia Frost-Brooks   |
+  |        Nov 20, 2025            |
+  |                                |
+  |                                |
+  |                                |
+  |       [ image 384x148 ]        |
+  |                                |
+  |                                |
+  | scan for the filing on fec.gov |
+  |                                |
+  |                                |
+  |                                |
+  |                                |
+  +--------------------------------+
